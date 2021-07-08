@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/transfer"
+        android:icon="@drawable/transfer"
+        android:title="Transfer"/>
+    <item
+        android:id="@+id/payment"
+        android:icon="@drawable/payment"
+        android:title="Payment"/>
+    <item
+        android:id="@+id/savings"
+        android:icon="@drawable/savings"
+        android:title="Savings"/>
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="Menu"/>
+
+</menu>
