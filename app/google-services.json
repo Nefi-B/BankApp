@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "146120111013",
-    "project_id": "myapp-aa15c",
-    "storage_bucket": "myapp-aa15c.appspot.com"
+    "project_number": "1090488058357",
+    "project_id": "bankappln",
+    "storage_bucket": "bankappln.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:146120111013:android:2c1391c97e7a9e45aeae4c",
+        "mobilesdk_app_id": "1:1090488058357:android:395ab65311dffaacda20bc",
         "android_client_info": {
-          "package_name": "com.example.myapp"
+          "package_name": "com.example.bankappln"
         }
       },
       "oauth_client": [
         {
-          "client_id": "146120111013-543il27ik91hi9oiletoav7ll2ponc7f.apps.googleusercontent.com",
+          "client_id": "1090488058357-5gka8ghvlg19o2h5e8u6cal0cicim5j0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.myapp",
+            "package_name": "com.example.bankappln",
             "certificate_hash": "b1076fd71d76d880ac455ab971d7442f9a2c50b7"
           }
         },
         {
-          "client_id": "146120111013-dm3tnkfua7ts3grb9a2pl62a47ra7u3d.apps.googleusercontent.com",
+          "client_id": "1090488058357-7stnlh8cgvfuvj3lupaka0jtf0mmp5gm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCS8Bq65x7JW50C2nh_ffGMEqFN_T1a3IA"
+          "current_key": "AIzaSyBXFDUjiZnZcJ6KQhoTzuqvu87CqRuD6JU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "146120111013-dm3tnkfua7ts3grb9a2pl62a47ra7u3d.apps.googleusercontent.com",
+              "client_id": "1090488058357-7stnlh8cgvfuvj3lupaka0jtf0mmp5gm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
